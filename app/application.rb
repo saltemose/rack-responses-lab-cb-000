@@ -7,6 +7,7 @@ class application
       puts "Good Morning!"
     else puts "Good Afternoon!"
     end
+    resp.finish
   end
 
 end
